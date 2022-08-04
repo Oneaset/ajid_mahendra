@@ -1,0 +1,4 @@
+nama: ajid mahendra
+npm : 19311204
+Prodi : Sistem Informasi 
+MataKuliah : Komputasi Awan
